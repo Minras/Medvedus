@@ -1,0 +1,5 @@
+## Interface: 50300
+## Title: Medvedus
+## Notes: Hugging Addon
+Medvedus.lua
+Medvedus.xml
